@@ -7,5 +7,5 @@
 # 一键安装
 
 ```
-bash <(curl -Ls [https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh](https://raw.githubusercontent.com/orcooo/BTpanel-arm-LuajIT/main/install.sh))
+bash <(curl -Ls https://raw.githubusercontent.com/orcooo/BTpanel-arm-LuajIT/main/install.sh)
 ```
