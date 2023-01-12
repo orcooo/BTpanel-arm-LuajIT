@@ -9,3 +9,7 @@
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/orcooo/BTpanel-arm-LuajIT/main/install.sh)
 ```
+或
+```
+wget -N https://raw.githubusercontent.com/orcooo/BTpanel-arm-LuajIT/main/install.sh && bash install.sh
+```
